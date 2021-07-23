@@ -1,0 +1,13 @@
+{
+	"name": "scratch-desktop-linux",
+	"productName": "Scratch",
+	"description": "Create stories, games, and animations, share with others around the world",
+	"productDescription": "With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.\n\nScratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.\n\nScratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It is provided free of charge.\n\nNOTE: This package is not verified by, affiliated with, or supported by the MIT Media Lab.",
+	"categories": [
+		"Education",
+		"Development"
+	],
+	"maintainer": "Lifelong Kindergarten Group at the MIT Media Lab",
+	"homepage": "https://scratch.mit.edu",
+	"license": "BSD-3-Clause"
+}
