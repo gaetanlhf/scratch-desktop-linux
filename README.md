@@ -8,7 +8,7 @@ You can find pre-compiled packages on the [release page](https://github.com/gaet
 **NOTE: These packages are not verified by, affiliated with, or supported by the MIT Media Lab.**
 
 # Usage
-Run `scracth-desktop-linux.sh`.  
+Run `scratch-desktop-linux.sh`.  
 You can edit this file according to your needs (change version of Scratch Desktop or of Electron for example).
 
 ***
