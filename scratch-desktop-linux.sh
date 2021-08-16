@@ -21,7 +21,7 @@ ROOT_FOLDER=$(pwd)
 MAKE_FOLDER=$(pwd)/.build
 EXTRACT_FOLDER=$MAKE_FOLDER/scratch-desktop
 PACKAGES_FOLDER=$(pwd)/packages
-SCRATCH_VERSION=3.24.0
+SCRATCH_VERSION=3.25.0
 # Please check in the Microsoft Windows executable which version of Electron is used
 ELECTRON_VERSION=8.2.5
 
