@@ -59,4 +59,4 @@ rm $EXTRACT_FOLDER/resources/elevate.exe
 
 # Create packages
 $MAKE_FOLDER/node_modules/.bin/electron-installer-debian --src $EXTRACT_FOLDER --dest $PACKAGES_FOLDER --arch amd64 --icon $EXTRACT_FOLDER/resources/Icon.svg --config $ROOT_FOLDER/config.json
-$MAKE_FOLDER/node_modules/.bin/electron-installer-redhat --src $EXTRACT_FOLDER --dest $PACKAGES_FOLDER --arch amd64 --icon $EXTRACT_FOLDER/resources/Icon.svg --config $ROOT_FOLDER/config.json
+$MAKE_FOLDER/node_modules/.bin/electron-installer-redhat --src $EXTRACT_FOLDER --dest $PACKAGES_FOLDER --arch x86_64 --icon $EXTRACT_FOLDER/resources/Icon.svg --config $ROOT_FOLDER/config.json
